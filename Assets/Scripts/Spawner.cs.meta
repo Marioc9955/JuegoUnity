@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c45012c80ec090a4c81de2ac8f1d6c2f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aster: {fileID: 3515078187764296999, guid: 2ccceeca782efd2428864f1501f54733, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
